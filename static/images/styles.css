@@ -5,8 +5,8 @@
 }
 body {
   font-family: Arial, sans-serif;
-  background-image: url("./background_image.jpeg");
-  color: #333;
+  background-color: #000;
+  color: #fff;
   text-align: center;
   padding: 20px;
 }
@@ -17,7 +17,7 @@ body {
 }
 .main-header p {
   font-size: 0.9rem;
-  color: #666;
+  color: #fff;
   margin-bottom: 20px;
 }
 .main-header div {
@@ -58,7 +58,7 @@ body {
 }
 
 .upload-area {
-  border: 2px dashed #82898F;
+  border: 2px dashed #666;
   border-radius: 5px;
   padding: 40px 20px;
   margin-bottom: 20px;
@@ -130,7 +130,7 @@ body {
   border-bottom: 1px solid #ccc;
 }
 .images-table th {
-  background-color: #f0f0f0;
+  background-color: #666;
 }
 .images-table td a {
   color: #0066FF;
